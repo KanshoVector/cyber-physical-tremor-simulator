@@ -32,7 +32,6 @@ mBot2環境下において、Pythonモードでの実行を想定。
 
 ## 参考文献・謝辞
 ALAMEDA Parkinson's Disease Accelerometer Dataset URL：
-
 https://zenodo.org/records/15769959
 
 DOI：https://doi.org/10.5281/zenodo.15769959
